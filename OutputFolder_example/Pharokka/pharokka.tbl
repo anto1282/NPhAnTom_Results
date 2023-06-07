@@ -1,0 +1,643 @@
+>Feature NODE_1_length_48799_cov_5.520556
+2	256	CDS
+			product	tail protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0001
+			transl_table	11
+257	463	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0002
+			transl_table	11
+465	1283	CDS
+			product	endolysin
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0003
+			transl_table	11
+1299	1583	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0004
+			transl_table	11
+1973	1617	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0005
+			transl_table	11
+2329	2520	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0006
+			transl_table	11
+2601	3311	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0007
+			transl_table	11
+3415	4035	CDS
+			product	single strand DNA binding protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0008
+			transl_table	11
+4132	6243	CDS
+			product	DNA polymerase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0009
+			transl_table	11
+6299	6445	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0010
+			transl_table	11
+6469	7308	CDS
+			product	CRISPR/Cas system associated
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0011
+			transl_table	11
+7305	7742	CDS
+			product	Holliday junction resolvase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0012
+			transl_table	11
+7739	8083	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0013
+			transl_table	11
+8086	8262	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0014
+			transl_table	11
+8277	8543	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0015
+			transl_table	11
+8547	8750	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0016
+			transl_table	11
+8750	9748	CDS
+			product	UvsX-like recombinase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0017
+			transl_table	11
+9748	9939	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0018
+			transl_table	11
+9929	10267	CDS
+			product	Holliday junction resolvase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0019
+			transl_table	11
+10309	10524	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0020
+			transl_table	11
+10526	10768	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0021
+			transl_table	11
+10775	10951	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0022
+			transl_table	11
+10992	11303	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0023
+			transl_table	11
+11319	11825	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0024
+			transl_table	11
+11827	11949	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0025
+			transl_table	11
+11951	12079	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0026
+			transl_table	11
+12092	12754	CDS
+			product	DnaC-like helicase loader
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0027
+			transl_table	11
+12751	13998	CDS
+			product	DnaB-like replicative helicase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0028
+			transl_table	11
+14231	15313	CDS
+			product	NrdD-like anaerobic ribonucleotide reductase large subunit
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0029
+			transl_table	11
+15484	16059	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0030
+			transl_table	11
+16428	16898	CDS
+			product	HNH endonuclease
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0031
+			transl_table	11
+17408	18004	CDS
+			product	anaerobic ribonucleoside reductase large subunit
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0032
+			transl_table	11
+18158	18499	CDS
+			product	DNA ligase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0033
+			transl_table	11
+18511	18648	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0034
+			transl_table	11
+18650	19135	CDS
+			product	anaerobic ribonucleotide reductase small subunit
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0035
+			transl_table	11
+19126	20007	CDS
+			product	DNA primase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0036
+			transl_table	11
+20026	20325	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0037
+			transl_table	11
+20326	20613	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0038
+			transl_table	11
+20610	20858	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0039
+			transl_table	11
+20860	21345	CDS
+			product	dUTPase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0040
+			transl_table	11
+21411	21863	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0041
+			transl_table	11
+21863	22150	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0042
+			transl_table	11
+22153	22563	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0043
+			transl_table	11
+22557	22835	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0044
+			transl_table	11
+22819	23001	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0045
+			transl_table	11
+23068	23988	CDS
+			product	nucleoside 2-deoxyribosyltransferase
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0046
+			transl_table	11
+23991	24143	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0047
+			transl_table	11
+24237	24602	CDS
+			product	homing endonuclease
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0048
+			transl_table	11
+24614	24850	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0049
+			transl_table	11
+25479	25640	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0050
+			transl_table	11
+25655	25903	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0051
+			transl_table	11
+26151	27077	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0052
+			transl_table	11
+27289	27813	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0053
+			transl_table	11
+27813	28049	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0054
+			transl_table	11
+28062	28316	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0055
+			transl_table	11
+28379	28708	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0056
+			transl_table	11
+29723	29541	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0057
+			transl_table	11
+30440	29823	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0058
+			transl_table	11
+30792	30442	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0059
+			transl_table	11
+30989	30810	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0060
+			transl_table	11
+31164	30991	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0061
+			transl_table	11
+31495	31202	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0062
+			transl_table	11
+31907	31539	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0063
+			transl_table	11
+32073	31918	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0064
+			transl_table	11
+32213	32070	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0065
+			transl_table	11
+32512	32210	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0066
+			transl_table	11
+33033	33446	CDS
+			product	terminase small subunit
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0067
+			transl_table	11
+33723	34511	CDS
+			product	terminase large subunit
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0068
+			transl_table	11
+34586	35203	CDS
+			product	homing endonuclease
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0069
+			transl_table	11
+35423	35863	CDS
+			product	terminase large subunit
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0070
+			transl_table	11
+35875	37359	CDS
+			product	portal protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0071
+			transl_table	11
+37310	37984	CDS
+			product	head morphogenesis
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0072
+			transl_table	11
+38058	38693	CDS
+			product	head scaffolding protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0073
+			transl_table	11
+38734	39018	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0074
+			transl_table	11
+39071	39964	CDS
+			product	major head protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0075
+			transl_table	11
+40006	40323	CDS
+			product	head-tail adaptor
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0076
+			transl_table	11
+40323	40640	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0077
+			transl_table	11
+40627	40974	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0078
+			transl_table	11
+40955	41338	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0079
+			transl_table	11
+41351	41779	CDS
+			product	major tail protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0080
+			transl_table	11
+41797	42162	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0081
+			transl_table	11
+42219	42452	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0082
+			transl_table	11
+42456	44663	CDS
+			product	hypothetical protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0083
+			transl_table	11
+44663	45346	CDS
+			product	distal tail protein Dit
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0084
+			transl_table	11
+45382	46548	CDS
+			product	virion structural protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0085
+			transl_table	11
+46561	48798	CDS
+			product	tail protein
+			locus_tag	NODE_1_length_48799_cov_5.520556_CDS_0086
+			transl_table	11
+33554	33645	pseudogene
+			product	tRNA-Ser(GCT)
+			locus_tag	NODE_1_length_48799_cov_5.520556_tRNA_0001
+			transl_table	11
+>Feature NODE_10_length_21507_cov_3.191404
+209	3151	CDS
+			product	transposase
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0001
+			transl_table	11
+3529	3200	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0002
+			transl_table	11
+4235	3624	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0003
+			transl_table	11
+6877	4529	CDS
+			product	ATPase
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0004
+			transl_table	11
+7375	6959	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0005
+			transl_table	11
+7946	7530	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0006
+			transl_table	11
+8952	8029	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0007
+			transl_table	11
+9349	8960	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0008
+			transl_table	11
+10410	9397	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0009
+			transl_table	11
+12342	10441	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0010
+			transl_table	11
+12469	13188	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0011
+			transl_table	11
+13185	14564	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0012
+			transl_table	11
+14994	14665	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0013
+			transl_table	11
+15212	14991	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0014
+			transl_table	11
+15254	15793	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0015
+			transl_table	11
+15896	16234	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0016
+			transl_table	11
+17229	16513	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0017
+			transl_table	11
+18887	17412	CDS
+			product	integrase
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0018
+			transl_table	11
+19840	18890	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0019
+			transl_table	11
+20997	20134	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0020
+			transl_table	11
+21507	21094	CDS
+			product	hypothetical protein
+			locus_tag	NODE_10_length_21507_cov_3.191404_CDS_0021
+			transl_table	11
+>Feature NODE_48_length_11540_cov_2.652503
+366	680	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0001
+			transl_table	11
+699	1082	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0002
+			transl_table	11
+1111	2496	CDS
+			product	FtsK/SpoIIIE-like protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0003
+			transl_table	11
+2674	3879	CDS
+			product	replication initiation protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0004
+			transl_table	11
+3922	4143	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0005
+			transl_table	11
+4260	4757	CDS
+			product	anti-restriction protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0006
+			transl_table	11
+4846	5238	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0007
+			transl_table	11
+5222	5932	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0008
+			transl_table	11
+5929	7515	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0009
+			transl_table	11
+7518	9695	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0010
+			transl_table	11
+9692	10693	CDS
+			product	tail protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0011
+			transl_table	11
+10708	11538	CDS
+			product	hypothetical protein
+			locus_tag	NODE_48_length_11540_cov_2.652503_CDS_0012
+			transl_table	11
+>Feature NODE_60_length_10226_cov_5.480877
+91	2	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0001
+			transl_table	11
+333	88	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0002
+			transl_table	11
+571	317	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0003
+			transl_table	11
+2032	755	CDS
+			product	integrase
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0004
+			transl_table	11
+3828	2872	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0005
+			transl_table	11
+7583	4818	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0006
+			transl_table	11
+8167	7580	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0007
+			transl_table	11
+8657	8160	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0008
+			transl_table	11
+8922	8644	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0009
+			transl_table	11
+9163	8915	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0010
+			transl_table	11
+9428	9156	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0011
+			transl_table	11
+9670	9425	CDS
+			product	excisionase and transcriptional regulator
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0012
+			transl_table	11
+10078	9812	CDS
+			product	hypothetical protein
+			locus_tag	NODE_60_length_10226_cov_5.480877_CDS_0013
+			transl_table	11
+>Feature NODE_164_length_6684_cov_2.145572
+319	2	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0001
+			transl_table	11
+1119	316	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0002
+			transl_table	11
+1481	1116	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0003
+			transl_table	11
+1735	1490	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0004
+			transl_table	11
+2106	1825	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0005
+			transl_table	11
+2498	2109	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0006
+			transl_table	11
+3312	2548	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0007
+			transl_table	11
+4135	3338	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0008
+			transl_table	11
+4749	4132	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0009
+			transl_table	11
+4934	4749	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0010
+			transl_table	11
+5532	4903	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0011
+			transl_table	11
+5671	5946	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0012
+			transl_table	11
+6433	6059	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0013
+			transl_table	11
+6684	6496	CDS
+			product	hypothetical protein
+			locus_tag	NODE_164_length_6684_cov_2.145572_CDS_0014
+			transl_table	11
+>Feature NODE_230_length_5704_cov_5.573199
+275	3	CDS
+			product	hypothetical protein
+			locus_tag	NODE_230_length_5704_cov_5.573199_CDS_0001
+			transl_table	11
+1177	362	CDS
+			product	hypothetical protein
+			locus_tag	NODE_230_length_5704_cov_5.573199_CDS_0002
+			transl_table	11
+1547	1365	CDS
+			product	hypothetical protein
+			locus_tag	NODE_230_length_5704_cov_5.573199_CDS_0003
+			transl_table	11
+1752	1534	CDS
+			product	hypothetical protein
+			locus_tag	NODE_230_length_5704_cov_5.573199_CDS_0004
+			transl_table	11
+2164	1826	CDS
+			product	hypothetical protein
+			locus_tag	NODE_230_length_5704_cov_5.573199_CDS_0005
+			transl_table	11
+5511	2188	CDS
+			product	Dda-like helicase
+			locus_tag	NODE_230_length_5704_cov_5.573199_CDS_0006
+			transl_table	11
+>Feature NODE_242_length_5524_cov_2.650393
+496	1824	CDS
+			product	hypothetical protein
+			locus_tag	NODE_242_length_5524_cov_2.650393_CDS_0001
+			transl_table	11
+1827	2111	CDS
+			product	hypothetical protein
+			locus_tag	NODE_242_length_5524_cov_2.650393_CDS_0002
+			transl_table	11
+2349	3401	CDS
+			product	hypothetical protein
+			locus_tag	NODE_242_length_5524_cov_2.650393_CDS_0003
+			transl_table	11
+3528	3941	CDS
+			product	hypothetical protein
+			locus_tag	NODE_242_length_5524_cov_2.650393_CDS_0004
+			transl_table	11
+4427	5299	CDS
+			product	hypothetical protein
+			locus_tag	NODE_242_length_5524_cov_2.650393_CDS_0005
+			transl_table	11
+5241	5522	CDS
+			product	hypothetical protein
+			locus_tag	NODE_242_length_5524_cov_2.650393_CDS_0006
+			transl_table	11
