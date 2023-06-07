@@ -1,3 +1,0 @@
-Virus,AAI to closest RaFAH reference,Host genus,Confidence score,List of methods
-NODE_10_length_21507_cov_3.191404,7.80,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Herbaspirillum,92.50,blast;94.60 iPHoP-RF;73.90
-NODE_60_length_10226_cov_5.480877,3.29,d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter,92.20,iPHoP-RF;94.40 blast;91.90

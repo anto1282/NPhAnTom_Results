@@ -1,8 +1,0 @@
-contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
-NODE_1_length_48799_cov_5.520556	48799	No	NA	84	26	0	High-quality	High-quality	90.32	AAI-based (medium-confidence)	0.0	1.0	
-NODE_10_length_21507_cov_3.191404	21507	No	NA	21	0	11	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
-NODE_48_length_11540_cov_2.652503	11540	No	NA	12	0	0	Low-quality	Genome-fragment	19.28	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
-NODE_60_length_10226_cov_5.480877	10226	No	NA	13	1	0	Low-quality	Genome-fragment	49.55	AAI-based (medium-confidence)	0.0	1.01	
-NODE_164_length_6684_cov_2.145572	6684	No	NA	14	0	9	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
-NODE_230_length_5704_cov_5.573199	5704	No	NA	6	0	3	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
-NODE_242_length_5524_cov_2.650393	5524	No	NA	6	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.05	no viral genes detected
