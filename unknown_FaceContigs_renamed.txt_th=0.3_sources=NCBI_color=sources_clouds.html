@@ -1,0 +1,87 @@
+<details style="font-size:14px"> <summary>Color legend
+        <span class="icon">👇</span>
+        </summary>
+        <p>
+        <pre><p style="font-size:11px">Colors: <span style="color:green;">NCBI</span>,<span style="color:orange;">Gut Phage Database</span> ,<span style="color:blue;">Tara ocean virome</span>,<span style="color:palegreen;">Predicted prophages</span>,<span style="color:black;">Terra</span>,<span style="color:saddlebrown;">Horse Virome</span>,<span style="color:chocolate;">Slurry virome</span>,<span style="color:lightblue;">MarineUKSouth</span>,<span style="color:purple;">PIGEON</span>,<span style="color:darkorange;">CHVD</span></pre>
+        </p>
+        </details>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1>unknown FaceContigs renamed.txt th=0.3 sources=NCBI color=sources clouds.html (9 genomes) 2023-06-01_09:16:40</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 1100px;
+            height: 900px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"accession": "MH460460", "color": "green", "created": "2018.0", "ecosystem": "NA", "ecosystem_full": "NA", "family": "", "fastafile": "/data/projects/thomas/PhageGraphDB/distances_v0.4/genomes/NCBI/MH460460:Dickeya_phage_vB_DsoM_JA13.fasta.gz", "gbfile": "/data/projects/thomas/BBPhageDB/gbk_dir_genomes/MH460460.1:Dickeya_phage_vB_DsoM_JA13.gbk.gz", "genome_size": 254061, "genus": null, "host": "Dickeya solani MK10", "host_genus": "Dickeya", "host_id": "Dickeya solani MK10", "host_strain": "Dickeya solani MK10", "how": "inferred", "id": "MH460460", "label": "Dickeya_phage_vB_DsoM_JA13", "lifestyle": "NA", "old_family": "", "organism": "Dickeya_phage_vB_DsoM_JA13", "shape": "dot", "size": 84, "source": "NCBI", "taxonomy": "Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes", "title": "accession: MH460460\u003cbr\u003e\norganism: Dickeya_phage_vB_DsoM_JA13\u003cbr\u003e\ntaxonomy: Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: \u003cbr\u003e\nold_family: \u003cbr\u003e\ngenus: None\u003cbr\u003e\nhost: Dickeya solani MK10\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 254061\u003cbr\u003e\ncreated: 2018.0"}, {"accession": "MH460461", "color": "green", "created": "2018.0", "ecosystem": "NA", "ecosystem_full": "NA", "family": "", "fastafile": "/data/projects/thomas/PhageGraphDB/distances_v0.4/genomes/NCBI/MH460461:Dickeya_phage_vB_DsoM_JA29.fasta.gz", "gbfile": "/data/projects/thomas/BBPhageDB/gbk_dir_genomes/MH460461.1:Dickeya_phage_vB_DsoM_JA29.gbk.gz", "genome_size": 253323, "genus": "Salmondvirus", "host": "Dickeya solani MK10", "host_genus": "Dickeya", "host_id": "Dickeya solani MK10", "host_strain": "Dickeya solani MK10", "how": "ICTV", "id": "MH460461", "label": "Dickeya_phage_vB_DsoM_JA29", "lifestyle": "NA", "old_family": "Myoviridae", "organism": "Dickeya_phage_vB_DsoM_JA29", "shape": "dot", "size": 84, "source": "NCBI", "taxonomy": "Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;;;Salmondvirus", "title": "accession: MH460461\u003cbr\u003e\norganism: Dickeya_phage_vB_DsoM_JA29\u003cbr\u003e\ntaxonomy: Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;;;Salmondvirus\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: \u003cbr\u003e\nold_family: Myoviridae\u003cbr\u003e\ngenus: Salmondvirus\u003cbr\u003e\nhost: Dickeya solani MK10\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 253323\u003cbr\u003e\ncreated: 2018.0"}, {"color": "yellow", "genome_size": 8385, "id": "FaceContigs_renamed.txt", "label": "FaceContigs_renamed.txt", "shape": "dot", "size": 2, "title": "FaceContigs_renamed.txt"}, {"accession": "LR756504", "color": "green", "created": "2020.0", "family": "NA", "genome_size": 636363, "genus": null, "host": "NA", "id": "LR756504", "label": "uncultured_phage", "lifestyle": "NA", "old_family": "NA", "organism": "uncultured_phage", "shape": "dot", "size": 212, "source": "NCBI", "taxonomy": "Viruses;unclassified viruses;unclassified bacterial viruses;environmental samples", "title": "accession: LR756504\u003cbr\u003e\norganism: uncultured_phage\u003cbr\u003e\ntaxonomy: Viruses;unclassified viruses;unclassified bacterial viruses;environmental samples\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: NA\u003cbr\u003e\nold_family: NA\u003cbr\u003e\ngenus: None\u003cbr\u003e\nhost: NA\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 636363\u003cbr\u003e\ncreated: 2020.0"}, {"accession": "MK250019", "color": "green", "created": "2019.0", "family": "NA", "genome_size": 541299, "genus": null, "host": "Prevotella sp.", "id": "MK250019", "label": "Prevotella_phage_Lak-A2", "lifestyle": "NA", "old_family": "Myoviridae", "organism": "Prevotella_phage_Lak-A2", "shape": "dot", "size": 180, "source": "NCBI", "taxonomy": "Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Caudovirales;Myoviridae", "title": "accession: MK250019\u003cbr\u003e\norganism: Prevotella_phage_Lak-A2\u003cbr\u003e\ntaxonomy: Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;Caudovirales;Myoviridae\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: NA\u003cbr\u003e\nold_family: Myoviridae\u003cbr\u003e\ngenus: None\u003cbr\u003e\nhost: Prevotella sp.\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 541299\u003cbr\u003e\ncreated: 2019.0"}, {"accession": "MF360957", "color": "green", "created": "2017.0", "family": "", "genome_size": 252197, "genus": "Takahashivirus", "host": "Bacillus subtilis", "id": "MF360957", "label": "Bacillus_virus_PBS1", "lifestyle": "NA", "old_family": "Myoviridae", "organism": "Bacillus_virus_PBS1", "shape": "dot", "size": 84, "source": "NCBI", "taxonomy": "Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;;;Takahashivirus", "title": "accession: MF360957\u003cbr\u003e\norganism: Bacillus_virus_PBS1\u003cbr\u003e\ntaxonomy: Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;;;Takahashivirus\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: \u003cbr\u003e\nold_family: Myoviridae\u003cbr\u003e\ngenus: Takahashivirus\u003cbr\u003e\nhost: Bacillus subtilis\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 252197\u003cbr\u003e\ncreated: 2017.0"}, {"accession": "MN905160", "color": "green", "created": "2020.0", "family": "", "genome_size": 99455, "genus": "Otagovirus", "host": "Pseudomonas syringae pv. actinidiae", "id": "MN905160", "label": "Pseudomonas_phage_PE09", "lifestyle": "NA", "old_family": "", "organism": "Pseudomonas_phage_PE09", "shape": "dot", "size": 33, "source": "NCBI", "taxonomy": "Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;;;Otagovirus", "title": "accession: MN905160\u003cbr\u003e\norganism: Pseudomonas_phage_PE09\u003cbr\u003e\ntaxonomy: Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;;;Otagovirus\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: \u003cbr\u003e\nold_family: \u003cbr\u003e\ngenus: Otagovirus\u003cbr\u003e\nhost: Pseudomonas syringae pv. actinidiae\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 99455\u003cbr\u003e\ncreated: 2020.0"}, {"accession": "KY065497", "color": "green", "created": "2017.0", "family": "", "genome_size": 59870, "genus": null, "host": "Streptococcus pneumoniae 18C/3", "id": "KY065497", "label": "Streptococcus_phage_IPP61", "lifestyle": "NA", "old_family": "", "organism": "Streptococcus_phage_IPP61", "shape": "dot", "size": 19, "source": "NCBI", "taxonomy": "Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes", "title": "accession: KY065497\u003cbr\u003e\norganism: Streptococcus_phage_IPP61\u003cbr\u003e\ntaxonomy: Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: \u003cbr\u003e\nold_family: \u003cbr\u003e\ngenus: None\u003cbr\u003e\nhost: Streptococcus pneumoniae 18C/3\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 59870\u003cbr\u003e\ncreated: 2017.0"}, {"accession": "MN101222", "color": "green", "created": "2019.0", "family": "Drexlerviridae", "genome_size": 52904, "genus": "Eclunavirus", "host": "Klebsiella oxytoca", "id": "MN101222", "label": "Klebsiella_phage_KOX9", "lifestyle": "NA", "old_family": "", "organism": "Klebsiella_phage_KOX9", "shape": "dot", "size": 17, "source": "NCBI", "taxonomy": "Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;Drexlerviridae;;Eclunavirus", "title": "accession: MN101222\u003cbr\u003e\norganism: Klebsiella_phage_KOX9\u003cbr\u003e\ntaxonomy: Duplodnaviria;;Heunggongvirae;;Uroviricota;;Caudoviricetes;;;;Drexlerviridae;;Eclunavirus\u003cbr\u003e\nsource: NCBI\u003cbr\u003e\nfamily: Drexlerviridae\u003cbr\u003e\nold_family: \u003cbr\u003e\ngenus: Eclunavirus\u003cbr\u003e\nhost: Klebsiella oxytoca\u003cbr\u003e\nlifestyle: NA\u003cbr\u003e\ngenome_size: 52904\u003cbr\u003e\ncreated: 2019.0"}]);
+        edges = new vis.DataSet([{"color": "lightgray", "dist": 0.0666809, "distance": "0.0666809", "from": "MH460460", "title": "0.0666809", "to": "MH460461", "value": 0.9333191, "weight": 0.9333191}, {"color": "lightgray", "dist": 0.298645, "distance": "0.298645", "from": "MH460460", "title": "0.298645", "to": "FaceContigs_renamed.txt", "value": 0.701355, "weight": 0.701355}, {"color": "lightgray", "dist": 0.281712, "distance": "0.281712", "from": "MH460461", "title": "0.281712", "to": "FaceContigs_renamed.txt", "value": 0.718288, "weight": 0.718288}, {"color": "lightgray", "dist": 0.299911, "distance": "0.299911", "from": "FaceContigs_renamed.txt", "title": "0.299911", "to": "LR756504", "value": 0.700089, "weight": 0.700089}, {"color": "lightgray", "dist": 0.286017, "distance": "0.286017", "from": "FaceContigs_renamed.txt", "title": "0.286017", "to": "MK250019", "value": 0.713983, "weight": 0.713983}, {"color": "lightgray", "dist": 0.292447, "distance": "0.292447", "from": "FaceContigs_renamed.txt", "title": "0.292447", "to": "MF360957", "value": 0.707553, "weight": 0.707553}, {"color": "lightgray", "dist": 0.296148, "distance": "0.296148", "from": "FaceContigs_renamed.txt", "title": "0.296148", "to": "MN905160", "value": 0.7038519999999999, "weight": 0.7038519999999999}, {"color": "lightgray", "dist": 0.219796, "distance": "0.219796", "from": "FaceContigs_renamed.txt", "title": "0.219796", "to": "KY065497", "value": 0.780204, "weight": 0.780204}, {"color": "lightgray", "dist": 0.295839, "distance": "0.295839", "from": "FaceContigs_renamed.txt", "title": "0.295839", "to": "MN101222", "value": 0.704161, "weight": 0.704161}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {"nodes": {"font": {"size": 14}, "shadow": {"enabled": true}}, "configure": {"enabled": true, "showButton": true}, "edges": {"color": {"inherit": true}, "smooth": false}, "physics": {"enabled": true, "forceAtlas2Based": {"gravitationalConstant": -88, "centralGravity": 0.035, "springLength": 100}, "minVelocity": 0.75, "solver": "forceAtlas2Based"}};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
