@@ -1,0 +1,15 @@
+>NODE_1_length_48799_cov_5.520556
+0 genes found
+>NODE_10_length_21507_cov_3.191404
+0 genes found
+>NODE_48_length_11540_cov_2.652503
+0 genes found
+>NODE_60_length_10226_cov_5.480877
+0 genes found
+>NODE_164_length_6684_cov_2.145572
+0 genes found
+>NODE_230_length_5704_cov_5.573199
+0 genes found
+>NODE_242_length_5524_cov_2.650393
+0 genes found
+>end 	7 sequences 0 tmRNA genes, nothing found in 7 sequences, (0.00% sensitivity)

@@ -1,0 +1,8 @@
+Phagename	Pred_counts	Seeker	Phager	DVF
+NODE_10_length_21507_cov_3.191404	1	False	True	False
+NODE_164_length_6684_cov_2.145572	1	False	True	False
+NODE_1_length_48799_cov_5.520556	3	True	True	True
+NODE_230_length_5704_cov_5.573199	1	False	False	True
+NODE_242_length_5524_cov_2.650393	1	False	False	True
+NODE_48_length_11540_cov_2.652503	2	False	True	True
+NODE_60_length_10226_cov_5.480877	1	False	False	True

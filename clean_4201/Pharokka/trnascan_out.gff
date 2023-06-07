@@ -1,0 +1,3 @@
+##gff-version 3
+NODE_1_length_48799_cov_5.520556	tRNAscan-SE	pseudogene	33554	33645	42.9	+	.	ID=NODE_1_length_48799_cov_5.520556.trna1;Name=NODE_1_length_48799_cov_5.520556.tRNA1-SerGCT;isotype=Ser;anticodon=GCT;gene_biotype=pseudogene;
+NODE_1_length_48799_cov_5.520556	tRNAscan-SE	exon	33554	33645	.	+	.	ID=NODE_1_length_48799_cov_5.520556.trna1.exon1;Parent=NODE_1_length_48799_cov_5.520556.trna1;

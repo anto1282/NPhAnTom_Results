@@ -1,0 +1,34 @@
+Number of eukaryotic sequences removed from read1: 1198604
+Number of eukaryotic sequences removed from read2: 1198604
+A	C	G	T	N	IUPAC	Other	GC	GC_stdev
+0.2558	0.2414	0.2427	0.2600	0.0017	0.0000	0.0000	0.4842	0.1120
+
+Main genome scaffold total:         	42320
+Main genome contig total:           	45400
+Main genome scaffold sequence total:	21.551 MB
+Main genome contig sequence total:  	21.514 MB  	0.172% gap
+Main genome scaffold N/L50:         	6399/660
+Main genome contig N/L50:           	8090/560
+Main genome scaffold N/L90:         	31749/231
+Main genome contig N/L90:           	34659/230
+Max scaffold length:                	48.799 KB
+Max contig length:                  	25.759 KB
+Number of scaffolds > 50 KB:        	0
+% main genome in scaffolds > 50 KB: 	0.00%
+
+
+Minimum 	Number        	Number        	Total         	Total         	Scaffold
+Scaffold	of            	of            	Scaffold      	Contig        	Contig  
+Length  	Scaffolds     	Contigs       	Length        	Length        	Coverage
+--------	--------------	--------------	--------------	--------------	--------
+    All 	        42,320	        45,400	    21,551,079	    21,514,028	  99.83%
+     50 	        42,320	        45,400	    21,551,079	    21,514,028	  99.83%
+    100 	        41,526	        44,606	    21,495,608	    21,458,557	  99.83%
+    250 	        26,982	        30,062	    18,291,781	    18,254,730	  99.80%
+    500 	         9,409	        12,378	    12,500,237	    12,464,406	  99.71%
+   1 KB 	         3,563	         5,469	     8,497,634	     8,474,386	  99.73%
+ 2.5 KB 	           889	         1,667	     4,542,336	     4,533,052	  99.80%
+   5 KB 	           290	           650	     2,531,988	     2,527,756	  99.83%
+  10 KB 	            63	           180	     1,003,973	     1,002,549	  99.86%
+  25 KB 	             5	            19	       174,843	       174,703	  99.92%
+
